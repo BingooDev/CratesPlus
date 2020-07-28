@@ -3,7 +3,9 @@ description: ${project.description}
 main: plus.crates.CratesPlus
 api-version: 1.13
 version: ${project.version}
-author: Connor Linfoot
+author: Connor Linfoot, Bingoo
+version: 4.6
+
 softdepend: [HolographicDisplays,IndividualHolograms]
 commands:
   crate:
